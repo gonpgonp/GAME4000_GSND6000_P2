@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Coolant
+  - Platform
   layers:
   - Default
   - TransparentFX
