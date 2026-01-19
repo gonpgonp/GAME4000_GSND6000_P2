@@ -39,6 +39,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Collectibles
+    uniqueID: 3235872965
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
