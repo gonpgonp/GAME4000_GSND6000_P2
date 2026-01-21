@@ -42,6 +42,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 1363446119
+    locked: 0
   - name: Collectibles
     uniqueID: 3235872965
     locked: 0
