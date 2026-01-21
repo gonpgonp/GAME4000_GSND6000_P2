@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6a5bbc3ad2ea84f2888078b6f787e8a9
+guid: 6f5abbb51d8d7864299b93ceaa742e7d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1755187586696376452
-    second: astronaut_flame_0
+      213: 3135458365584056158
+    second: ice_cube_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: astronaut_flame_0
+      name: ice_cube_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 149
-        height: 238
-      alignment: 9
-      pivot: {x: 0.6576756, y: 0.7693222}
+        width: 132
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c7f89c4703254a7e0800000000000000
-      internalID: -1755187586696376452
+      spriteID: e5f1aa865c2638b20800000000000000
+      internalID: 3135458365584056158
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 619cdd9164bf54d1796841bfae6d53fb
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      astronaut_flame_0: -1755187586696376452
+      ice_cube_0: 3135458365584056158
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

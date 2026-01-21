@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6a5bbc3ad2ea84f2888078b6f787e8a9
+guid: 0eebce45737d1e84bad525644fd24c25
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1755187586696376452
-    second: astronaut_flame_0
+      213: 5757424183096077452
+    second: star_1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: astronaut_flame_0
+      name: star_1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 149
-        height: 238
-      alignment: 9
-      pivot: {x: 0.6576756, y: 0.7693222}
+        width: 144
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c7f89c4703254a7e0800000000000000
-      internalID: -1755187586696376452
+      spriteID: c8c6fa65aca76ef40800000000000000
+      internalID: 5757424183096077452
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 619cdd9164bf54d1796841bfae6d53fb
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      astronaut_flame_0: -1755187586696376452
+      star_1_0: 5757424183096077452
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
